@@ -301,3 +301,7 @@ http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs
 http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/
 
 http://mean.io/
+
+### Text and Character Encoding
+
+http://www.joelonsoftware.com/articles/Unicode.html
