@@ -158,7 +158,7 @@ http://phonegap.com/
 
 
 ### New Hotness
-Stuff related to upcoming ES6 features, exotic DOM APIs, or anything else off the beaten path.
+Stuff related to upcoming ES6 features, exotic DOM APIs, or anything that's not [old and busted](https://www.youtube.com/watch?v=ha-uagjJQ9k).
 
 https://github.com/google/traceur-compiler
 
@@ -173,7 +173,7 @@ http://www.polymer-project.org/
 
 
 ### HFS
-Holy f\*\*\* s\*\*\*, how did they do that?
+Holy f\*\*\*ing s\*\*\*, how did they do that?
 
 http://bost.ocks.org/mike/algorithms/
 
@@ -240,7 +240,7 @@ https://github.com/dr-coffee-labs/hamlet
 
 
 
-### Routing
+#### Routing
 
 http://joakimbeng.eu01.aws.af.cm/a-javascript-router-in-20-lines/
 
@@ -250,19 +250,19 @@ https://github.com/flatiron/director
 
 
 
-### AJAX
+#### AJAX
 
 http://api.jquery.com/jquery.ajax/
 
 https://github.com/visionmedia/superagent
 
-### Utilities
+#### Utilities
 
 https://github.com/kaimallea/isMobile
 
 https://gist.github.com/nickb1080/f7172c00fdcd45b9415a
 
-### Documentation
+#### Documentation
 
 https://github.com/jsdoc3/jsdoc
 
@@ -270,7 +270,7 @@ http://jashkenas.github.io/docco/
 
 
 
-### Front-End Frameworks
+#### Front-End Frameworks
 
 http://backbonejs.org/
 
@@ -284,7 +284,7 @@ http://todomvc.com/
 
 
 
-### Back-End Frameworks
+#### Back-End Frameworks
 
 http://expressjs.com/
 
@@ -294,7 +294,7 @@ http://koajs.com/
 
 
 
-### Full-Stack
+#### Full-Stack
 
 http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs
 
