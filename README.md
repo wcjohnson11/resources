@@ -144,16 +144,30 @@ http://arcturo.github.io/library/coffeescript/
 
 https://github.com/mkautzmann/Idiomatic-CoffeeScript
 
+http://coffeescriptcookbook.com/
 
 
 ### JavaScript Everywhere
-Tools for creating JavaScript apps outside the browser.
+Tools for running JavaScript code and apps outside the browser.
 
 https://github.com/liamks/macgap
 
 https://github.com/Anonyfox/node-webkit-hipster-seed
 
 http://phonegap.com/
+
+https://tessel.io/
+
+
+### Linting
+
+http://www.jslint.com/
+
+http://www.jshint.com/
+
+https://github.com/jshint/jshint/blob/master/examples/.jshintrc
+
+http://www.coffeelint.org/
 
 
 
@@ -302,6 +316,8 @@ http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript
 
 http://mean.io/
 
-### Text and Character Encoding
+
+
+#### Text and Character Encoding
 
 http://www.joelonsoftware.com/articles/Unicode.html
