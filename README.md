@@ -165,6 +165,9 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [dtao/lazy.js](https://github.com/dtao/lazy.js) &mdash; like Underscore, but lazier.
 - [Reactive Extensions Tutorial](http://jhusain.github.io/learnrx/)
 - [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) &mdash; the Reactive Extensions for JavaScript
+
+- [Functional Reactive Programming Intro](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)  An extremely thorough introduction to functional reactive programming
+
 - [baconjs/bacon.js](https://github.com/baconjs/bacon.js/) &mdash; FRP (functional reactive programming) library for Javascript
 
 #### Front-End Frameworks
