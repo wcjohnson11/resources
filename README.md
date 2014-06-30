@@ -7,9 +7,11 @@ Much better than this one
 - [Front-end Feeds](https://github.com/impressivewebs/frontend-feeds)
 - [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
 - [Front-end Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+### Blogs & News
 - [Echojs.com](http://www.echojs.com/)
 - [Dailyjs.com](http://dailyjs.com/)
-
+- [Javascript, JavaScript](http://javascriptweblog.wordpress.com/)
 
 ### JavaScript Rockstars
 Follow them on GitHub and elsewhere
@@ -73,6 +75,7 @@ Examples in JavaScript
 ### Building & Using APIs
 - [HTTP API Design](https://github.com/interagent/http-api-design)
 - [REST API Tutorial](http://www.restapitutorial.com/)
+- [Creating a REST API with Express and MongoDB]( http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/)
 
 ### CoffeeScript
 - [The Little Book On CoffeeScript](http://arcturo.github.io/library/coffeescript/)
@@ -122,6 +125,7 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [dilvie/stampit](https://github.com/dilvie/stampit) &mdash; Create objects from reusable, composable behaviors.
 - [javascript/augment](https://github.com/javascript/augment) &mdash; The world's smallest and fastest classical JavaScript inheritance pattern.
 - [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) &mdash; The authoritative guide to building objects in JavaScript.
+- [A Fresh Look At JavaScript Mixins](http://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/)
 
 #### Templating
 - [Jade](http://jade-lang.com/) &mdash; robust, elegant, feature rich template engine for nodejs. [GitHub](https://github.com/visionmedia/jade)
@@ -198,5 +202,10 @@ Database clients in JavaScript
 - [Mean.io](http://mean.io/) 
 
 #### Text and Character Encoding
-
 - [utf-8 header and text encoding.](http://www.joelonsoftware.com/articles/Unicode.html)
+
+#### Interviewing Resources
+- [Front-End Developer Interview Questions](https://github.com/darcyclarke/front-end-developer-interview-questions)
+- [Coding Interview Tips (Soft-Skills)](https://www.interviewcake.com/coding-interview-tips)
+- [Interview Hacks](http://webapplog.com/interview-hacks/)
+- [The Insider's Guide to JavaScript Interviewing](http://www.toptal.com/javascript#hiring-guide)
