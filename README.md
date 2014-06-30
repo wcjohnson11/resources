@@ -25,7 +25,7 @@ Master it
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) &mdash; GitHub has an awful lot of features. Explore them.
 - [GitHub API Documentation](https://developer.github.com/v3/) &mdash; The GitHub REST API.
 - [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) &mdash; How GitHub interprets markdown.
-- [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) &mdash; Your commit messages and pull requests are about to get so :boom:.
+- [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) &mdash; Because :expressionless: is how you should respond to bad pull requests.
 - [philschatz/octokit.js](https://github.com/philschatz/octokit.js/) &mdash; An Unofficial client for the Github API using CommonJS Promises. Intended for the browser or as a NodeJS package.
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) &mdash; Native Node bindings to Git.
 - [atom/git-utils](https://github.com/atom/git-utils) &mdash; Git Node Module.
