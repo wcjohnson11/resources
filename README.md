@@ -6,315 +6,231 @@
 ### Other Resource Lists
 Much better than this one
 
-https://github.com/impressivewebs/frontend-feeds
+(https://github.com/impressivewebs/frontend-feeds
 
-https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
+(https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
 
-https://github.com/vhf/free-programming-books
+(https://github.com/vhf/free-programming-books
 
-https://github.com/dypsilon/frontend-dev-bookmarks
+(https://github.com/dypsilon/frontend-dev-bookmarks
 
-http://www.echojs.com/
+(http://www.echojs.com/
 
-http://dailyjs.com/
+(http://dailyjs.com/
 
 
 
 ### JavaScript Rockstars
 Follow them on GitHub & elsewhere
-
-https://github.com/substack
-
-https://github.com/addyosmani
-
-https://github.com/ebidel
-
-
+- [James Halliday](https://github.com/substack)
+- [Addy Osmani](https://github.com/addyosmani)
+- [Eric Bidelman](https://github.com/ebidel)
+- [TJ Holowaychuk](https://github.com/visionmedia)
 
 ### Git & GitHub
 Master it.
-
-https://github.com/github/hub
-
-https://pages.github.com/
-
-http://github.github.com/github-flavored-markdown/
-
-https://github.com/tiimgreen/github-cheat-sheet
-
-https://github.com/philschatz/octokit.js/
-
-https://developer.github.com/v3/
-
-https://github.com/nodegit/nodegit
-
-https://github.com/atom/git-utils
-
-http://git-scm.com/
-
-https://github.com/JacksonGariety/Galileo
-
-http://www.emoji-cheat-sheet.com/
-
-
+- [Hub](https://github.com/github/hub) &mdash; GitHub from the command line.
+- [GitHub Pages](https://pages.github.com/) &mdash; Guide to hosting sites on GitHub pages.
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) &mdash; GitHub has an awful lot of features. Explore them.
+- [GitHub API Documentation](https://developer.github.com/v3/) &mdash; The GitHub REST API.
+- [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) &mdash; How GitHub interprets markdown.
+- [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) &mdash; Your commit messages and pull requests are about to get so awesome.
+- [philschatz/octokit.js](https://github.com/philschatz/octokit.js/) &mdash; An Unofficial client for the Github API using CommonJS Promises. Intended for the browser or as a NodeJS package.
+- [nodegit/nodegit](https://github.com/nodegit/nodegit) &mdash; Native Node bindings to Git.
+- [atom/git-utils](https://github.com/atom/git-utils) &mdash; Git Node Module.
 
 ### The Language
 Nuts & bolts
-
-https://github.com/advanced-js/syllabus
+- [NYU Advanced JS Course](https://github.com/advanced-js)
 
 
 
 ### Style
 USE MORE SPACES, PEOPLE.
-
-https://github.com/rwaldron/idiomatic.js
-
-https://github.com/airbnb/javascript
-
-
+- [rwaldon/idiomatic.js](https://github.com/rwaldron/idiomatic.js) &mdash; Principles of Writing Consistent, Idiomatic JavaScript.
+- [airbnb/javascript](https://github.com/airbnb/javascript) &mdash; JavaScript Style Guide.
 
 ### Testing
 Be taken seriously
-
-http://qunitjs.com/
-
-http://chaijs.com/
-
-http://visionmedia.github.io/mocha/
-
-http://jasmine.github.io/
-
-http://karma-runner.github.io/0.12/index.html
-
-http://sinonjs.org/
-
-https://travis-ci.org/
-
-https://ci.testling.com/
+- [jquery/qunit](https://github.com/jquery/qunit) &mdash; An easy-to-use JavaScript Unit Testing framework. [Website](http://qunitjs.com/)
+- [chaijs/chai](https://github.com/chaijs/chai) &mdash; BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. [Website](http://chaijs.com/)
+- [visionmedia/mocha](https://github.com/visionmedia/mocha) &mdash; mocha - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces) [Website](http://visionmedia.github.io/mocha/)
+- [pivotal/jasmine](https://github.com/pivotal/jasmine) &mdash; DOM-less simple JavaScript testing framework. [Website](http://jasmine.github.io/)
+- [karma-runner/karma](https://github.com/karma-runner/karma) &mdash; Spectacular Test Runner for JavaScript. [Website](http://karma-runner.github.io/0.12/index.html)
+- [cjohansen/sinon.js](https://github.com/cjohansen/Sinon.JS) &mdash; Test spies, stubs and mocks for JavaScript. [Website](http://sinonjs.org/)
+(https://travis-ci.org/)
+(https://ci.testling.com/)
 
 
 
 ### Building and Tooling
 Be a better developer
-
-http://browserify.org/
-
-https://github.com/gruntjs/grunt
-
-https://github.com/gulpjs/gulp
-
-https://github.com/brunch/brunch
-
-https://github.com/broccolijs/broccoli
-
-https://developers.google.com/closure/compiler/
-
-http://yui.github.io/yuicompressor/
+- [Browserify](http://browserify.org/) &mdash; browser-side require() the node.js way. [GitHub](https://github.com/substack/node-browserify)
+- [Grunt](https://github.com/gruntjs/grunt) &mdash; the JavaScript Task Runner. [GitHub](https://github.com/gruntjs/grunt)
+- [Gulp](https://github.com/gulpjs/gulp) &mdash; the streaming build system. [GitHub](https://github.com/gulpjs/gulp/)
+- [Brunch](http://brunch.io/) &mdash; Ultra-fast HTML5 build tool [GitHub](https://github.com/brunch/brunch)
+- [Broccoli](https://github.com/broccolijs/broccoli) &mdash; Browser compilation library – a build tool for applications that run in the browser
+- [Google Closure Compiler](https://developers.google.com/closure/compiler/) &mdash; A JavaScript checker and optimizer. [GitHub](https://github.com/google/closure-compiler)
 
 
 
 ### Data Structures & Algorithms
 Examples in JavaScript
-
-https://github.com/mgechev/javascript-algorithms
-
-https://github.com/chenglou/data-structures
-
-https://github.com/davidshariff/computer-science
-
-https://github.com/afiore/arboreal
-
-https://github.com/mauriciosantos/buckets
+- [mgchev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) &mdash; JavaScript implementation of different computer science algorithms.
+- [chenglou/data-structures](https://github.com/chenglou/data-structures) &mdash; Fast, light and hassle-free JavaScript data structures, written in CoffeeScript.
+- [davidshariff/computer-science](https://github.com/davidshariff/computer-science) &mdash; Contains the basic fundamental data structures and algorithms a front end engineer should know, written all in JavaScript.
+- [afiore/arboreal](https://github.com/afiore/arboreal) &mdash; Javascript tree-traversal and manipulation microlibrary
+- [mauriciosantos/buckets](https://github.com/mauriciosantos/buckets) &mdash; A complete, fully tested and documented data structure library written in JavaScript.
 
 
 
 ### Building & Using APIs
 
-https://github.com/interagent/
-http-api-design
-
-http://www.restapitutorial.com/
+- [HTTP API Design](https://github.com/interagent/http-api-design)
+- [REST API Tutorial](http://www.restapitutorial.com/)
 
 
 
 ### CoffeeScript
-
-http://arcturo.github.io/library/coffeescript/
-
-https://github.com/mkautzmann/Idiomatic-CoffeeScript
-
-http://coffeescriptcookbook.com/
-
+- [The Little Book On CoffeeScript](http://arcturo.github.io/library/coffeescript/)
+- [The CoffeeScript Cookbook](http://coffeescriptcookbook.com/)
+- [mkautzmann/Idiomatic-CoffeeScript](https://github.com/mkautzmann/Idiomatic-CoffeeScript) &mdash; A set of best practices in CoffeeScript programming, built for better code readability and consistency.
 
 ### JavaScript Everywhere
 Tools for running JavaScript code and apps outside the browser.
-
-https://github.com/liamks/macgap
-
-https://github.com/Anonyfox/node-webkit-hipster-seed
-
-http://phonegap.com/
-
-https://tessel.io/
+- [MacGapProject/MacGap1](https://github.com/MacGapProject/MacGap1) &mdash; Desktop WebKit wrapper for HTML/CSS/JS applications.
+- [Anonyfox/node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) &mdash; Bootstrap a crossplatform Desktop Application using tools you probably never heard of. No this isn't a developer joke. It works.
+- [PhoneGap](http://phonegap.com/) &mdash; access core functions on Android, iPhone and Blackberry using JavaScript. [GitHub](https://github.com/phonegap/phonegap)
+- [Tessel](https://tessel.io/) &mdash; Hardware development for software developers. [GitHub](https://github.com/tessel)
 
 
 ### Linting
 
-http://www.jslint.com/
-
-http://www.jshint.com/
-
-https://github.com/jshint/jshint/blob/master/examples/.jshintrc
-
-http://www.coffeelint.org/
+- (http://www.jslint.com/)
+- (http://www.jshint.com/)
+- (https://github.com/jshint/jshint/blob/master/examples/.jshintrc)
+- (http://www.coffeelint.org/)
 
 
 
 ### New Hotness
-Stuff related to upcoming ES6 features, exotic DOM APIs, or anything that's not [old and busted](https://www.youtube.com/watch?v=ha-uagjJQ9k).
-
-https://github.com/google/traceur-compiler
-
-https://people.mozilla.org/~jorendorff/es6-draft.html
-
-http://www.html5rocks.com/en/tutorials/es7/observe/
-
-http://flippinawesome.org/2014/02/10/replacing-callbacks-with-es6-generators/
-
-http://www.polymer-project.org/
+Stuff related to upcoming ES6 features, exotic DOM APIs, or anything else that's not [old and busted]((https://www.youtube.com/watch?v=ha-uagjJQ9k).
+- [Google Traceur Compiler](https://github.com/google/traceur-compiler)
+- [ES6 Draft Spec](https://people.mozilla.org/~jorendorff/es6-draft.html)
+- [Intro to `Object.observe`](http://www.html5rocks.com/en/tutorials/es7/observe/)
+- [ES6 Generators](http://flippinawesome.org/2014/02/10/replacing-callbacks-with-es6-generators/)
+- [The Polymer Project](http://www.polymer-project.org/)
 
 
 
 ### HFS
 Holy f\*\*\*ing s\*\*\*, how did they do that?
-
-http://bost.ocks.org/mike/algorithms/
+- [Algorithm Visualizations](http://bost.ocks.org/mike/algorithms/)
 
 ### Libraries
 #### Event Systems
-
-https://github.com/cowboy/jquery-tiny-pubsub
-
-https://github.com/Wolfy87/EventEmitter
-
-https://github.com/fat/bean
+[cowboy/jquery-tiny-pubsub](https://github.com/cowboy/jquery-tiny-pubsub) &mdash;
+[asyncly/EventEmitter2](https://github.com/asyncly/EventEmitter2) &mdash; A nodejs event emitter implementation with namespaces, wildcards, TTL, works in the browser
+[Wolfy87/EventEmitter](https://github.com/Wolfy87/EventEmitter) &mdash; Evented JavaScript for the browser
+[fat/bean](https://github.com/fat/bean) &mdash; an events api for javascript
 
 
 
 #### Promises
-
-https://github.com/petkaantonov/bluebird
-
-https://github.com/cujojs/when
-
-http://promises-aplus.github.io/promises-spec/
-
-http://api.jquery.com/category/deferred-object/
+- [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) &mdash; A full featured promise library with unmatched performance.
+- [cujojs/when](https://github.com/cujojs/when) &mdash; A solid, fast Promises/A+ and when() implementation, plus other async goodies.
+- [Promises/A+ Spec](http://promisesaplus.com/) &mdash; An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
+- [jQuery.Deferred docs](http://api.jquery.com/category/deferred-object/) &mdash; Like promises but not really.
 
 
 
-#### Classes, Inheritance & Other OO
-
-https://github.com/Wolfy87/Heir
-
-https://github.com/dilvie/stampit
-
-https://github.com/javascript/augment
-
-http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+#### Classes, Inheritance, Object Construction
+- [Wolfy87/Heir](https://github.com/Wolfy87/Heir) &mdash; Makes prototypical inheritance easy and robust.
+- [dilvie/stampit](https://github.com/dilvie/stampit) &mdash; Create objects from reusable, composable behaviors.
+- [javascript/augment](https://github.com/javascript/augment) &mdash; The world's smallest and fastest classical JavaScript inheritance pattern.
+- [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) &mdash; The authoritative guide to building objects in JavaScript.
 
 
 
 #### Templating
-Jade 
-https://github.com/visionmedia/jade
+- [Jade](http://jade-lang.com/) &mdash; robust, elegant, feature rich template engine for nodejs. [GitHub](https://github.com/visionmedia/jade)
+- [Mustache](http://mustache.github.io/) &mdash; minimal templating with {{mustaches}} in JavaScript. [GitHub](http://mustache.github.io/)
+- [Handlebars](http://handlebarsjs.com/) &mdash; an extension to the Mustache templating language. [GitHub](https://github.com/wycats/handlebars.js/)
+- [Toffee](https://github.com/malgorithms/toffee) &mdash; a NodeJS and browser templating language based on coffeescript, with the slickest syntax ever. [GitHub](https://github.com/malgorithms/toffee)
+- [CoffeeKup](http://coffeekup.org/) &mdash; markup as CoffeeScript. [GitHub](https://github.com/mauricemach/coffeekup)
 
-Blade 
-https://github.com/bminer/node-blade
-
-Mustache 
-http://mustache.github.io/
-
-Handlebars 
-https://github.com/wycats/handlebars.js/
-
-Toffee 
-https://github.com/malgorithms/toffee
-
-CoffeeKup 
-https://github.com/mauricemach/coffeekup
-
-Coffee-Templates
-https://github.com/mikesmullin/coffee-templates
-
-Hamlet
-https://github.com/dr-coffee-labs/hamlet
+#### User Interface
+- [React](https://github.com/facebook/react)
+- [Hamlet](http://hamlet.coffee/) &mdash; the most tempting language for client side JavaScript applications. [GitHub](https://github.com/dr-coffee-labs/hamlet)
 
 
 
 
 #### Routing
-
-http://joakimbeng.eu01.aws.af.cm/a-javascript-router-in-20-lines/
-
-https://github.com/visionmedia/page.js
-
-https://github.com/flatiron/director
-
-
+- [visionmedia/page.js](https://github.com/visionmedia/page.js) &mdash; Micro client-side router inspired by the Express router (~1200 bytes)
+- [flatiron/director](https://github.com/flatiron/director) &mdash; a tiny and isomorphic URL router for JavaScript
+- [A JavaScript Router in 20 Lines](http://joakimbeng.eu01.aws.af.cm/a-javascript-router-in-20-lines/)
 
 #### AJAX
 
-http://api.jquery.com/jquery.ajax/
-
-https://github.com/visionmedia/superagent
+- [jQuery.ajax documentation](http://api.jquery.com/jquery.ajax/)
+- [visionmedia/superagent](https://github.com/visionmedia/superagent) &mdash; Ajax with less suck - (and node.js HTTP client to match)
 
 #### Utilities
 
-https://github.com/kaimallea/isMobile
+- [kaimallea/isMobile](https://github.com/kaimallea/isMobile) &mdash; a simple JS library that detects mobile devices.
+- [Environment-agnostic boilerplate](https://gist.github.com/nickb1080/f7172c00fdcd45b9415a) &mdash; stolen from the Backbone source. Write code that works seamlessly in Node, AMD, and the browser.
 
-https://gist.github.com/nickb1080/f7172c00fdcd45b9415a
+#### Generating Docs
 
-#### Documentation
-
-https://github.com/jsdoc3/jsdoc
-
-http://jashkenas.github.io/docco/
+- [JSDoc](http://usejsdoc.org/) &mdash; an API documentation generator for JavaScript. [GitHub](https://github.com/jsdoc3/jsdoc)
+- [Docco](http://jashkenas.github.io/docco/) &mdash; Literate Programming can be Quick and Dirty. [GitHub](https://github.com/jashkenas/docco)
 
 
 
 #### Front-End Frameworks
 
-http://backbonejs.org/
-
-http://emberjs.com/
-
-https://angularjs.org/
-
-https://www.meteor.com/
-
-http://todomvc.com/
+- [Backbone](http://backbonejs.org/) &mdash; Give your JS App some Backbone with Models, Views, Collections, and Events. [GitHub](https://github.com/jashkenas/backbone)
+- [Ember.js](http://emberjs.com/) &mdash; a JavaScript framework for creating ambitious web applications. [GitHub](https://github.com/emberjs/ember.js)
+- [Angular.js](https://angularjs.org/) &mdash; HTML enhanced for web apps. [GitHub](https://github.com/angular/angular.js)
+- [Meteor](https://www.meteor.com/) &mdash; Meteor is an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. [GitHub](https://github.com/meteor/meteor)
+- [TodoMVC](http://todomvc.com/) &mdash; compare front-end frameworks
 
 
 
 #### Back-End Frameworks
 
-http://expressjs.com/
+(http://expressjs.com/)
 
-http://sailsjs.org/
+(http://sailsjs.org/)
 
-http://koajs.com/
+(http://koajs.com/)
 
+
+
+#### Database Interaction / ORMs
+
+- SQL (https://github.com/sequelize/sequelize)
+- SQL (https://github.com/tgriesser/bookshelf)
+- MongoDB (http://mongoosejs.com/)
+- CouchDB (https://github.com/flatiron/cradle)
+- Redis (https://github.com/mranney/node_redis)
+
+
+#### Backend as a Service
+
+- Parse (https://parse.com/docs/js_guide)
+- Firebase (https://www.firebase.com/docs/javascript/firebase/)
+- Apigee (http://apigee.com/docs/app-services/content/installing-apigee-sdk-javascript)
 
 
 #### Full-Stack
 
 http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs
 
-http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/
+- [Introduction to Full-Stack Javascipt](http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/) &mdash; _Smashing Magazine_
 
-http://mean.io/
+- [Mean.io](http://mean.io/) &mdash; The MEAN stack (MongoDb, Express, Angular, Node).
 
 
 
