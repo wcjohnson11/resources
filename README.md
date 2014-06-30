@@ -1,16 +1,14 @@
 # JavaScript Resources
 _Hack Reactor 15_ 
 
-### Other Resource Lists
+### Other Resource Lists and Sites
 Much better than this one
-
-(https://github.com/impressivewebs/frontend-feeds)
-(https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
-(https://github.com/vhf/free-programming-books)
-(https://github.com/dypsilon/frontend-dev-bookmarks)
-(http://www.echojs.com/)
-(http://dailyjs.com/)
-
+[Free Programming Books](https://github.com/vhf/free-programming-books)
+[Front-end Feeds](https://github.com/impressivewebs/frontend-feeds)
+[Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+[Front-end Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+[Echojs.com](http://www.echojs.com/)
+[Dailyjs.com](http://dailyjs.com/)
 
 
 ### JavaScript Rockstars
@@ -118,6 +116,8 @@ Stuff related to upcoming ES6 features, exotic DOM APIs, or anything else that's
 Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Algorithm Visualizations](http://bost.ocks.org/mike/algorithms/)
 
+
+
 ### Libraries
 #### Event Systems
 - [cowboy/jquery-tiny-pubsub](https://github.com/cowboy/jquery-tiny-pubsub) &mdash; a really, really, REALLY tiny pub/sub implementation for jQuery.
@@ -192,38 +192,32 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 
 
 #### Back-End Frameworks
-
-(http://expressjs.com/)
-
-(http://sailsjs.org/)
-
-(http://koajs.com/)
+- [Express](http://expressjs.com/) &mdash; Sinatra inspired web development framework for node.js -- insanely fast, flexible, and simple. [GitHub](https://github.com/visionmedia/express)
+- [Sails.js](http://sailsjs.org/) &mdash; Realtime MVC Framework for Node.js. [GitHub](https://github.com/balderdashy/sails)
+- [Koa.js](http://koajs.com/) &mdash;
+[GitHub]
 
 
 
 #### Database Interaction / ORMs
-
-- SQL (https://github.com/sequelize/sequelize)
-- SQL (https://github.com/tgriesser/bookshelf)
-- MongoDB (http://mongoosejs.com/)
-- CouchDB (https://github.com/flatiron/cradle)
-- Redis (https://github.com/mranney/node_redis)
+Database clients in JavaScript
+- SQL [sequelize](https://github.com/sequelize/sequelize)
+- SQL [bookshelf](https://github.com/tgriesser/bookshelf)
+- MongoDB [mongoose](http://mongoosejs.com/)
+- CouchDB [cradle](https://github.com/flatiron/cradle)
+- Redis [node_redis](https://github.com/mranney/node_redis)
 
 
 #### Backend as a Service
-
-- Parse (https://parse.com/docs/js_guide)
-- Firebase (https://www.firebase.com/docs/javascript/firebase/)
-- Apigee (http://apigee.com/docs/app-services/content/installing-apigee-sdk-javascript)
+- [Parse](https://parse.com/docs/js_guide)
+- [Firebase](https://www.firebase.com/docs/javascript/firebase/)
+- [Apigee](http://apigee.com/docs/app-services/content/installing-apigee-sdk-javascript)
 
 
 #### Full-Stack
-
-http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs
-
-- [Introduction to Full-Stack Javascipt](http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/) &mdash; _Smashing Magazine_
-
-- [Mean.io](http://mean.io/) &mdash; The MEAN stack (MongoDb, Express, Angular, Node).
+- [Introduction to Full-Stack Javascipt](http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/)
+- [Guide To Full-Stack JavaScript](http://www.toptal.com/javascript/guide-to-full-stack-javascript)
+- [Mean.io](http://mean.io/) 
 
 
 
