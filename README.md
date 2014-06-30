@@ -45,14 +45,14 @@ USE MORE SPACES, PEOPLE.
 
 ### Testing
 Be taken seriously
-- [jquery/qunit](https://github.com/jquery/qunit) &mdash; An easy-to-use JavaScript Unit Testing framework. [Website](http://qunitjs.com/)
-- [chaijs/chai](https://github.com/chaijs/chai) &mdash; BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. [Website](http://chaijs.com/)
-- [visionmedia/mocha](https://github.com/visionmedia/mocha) &mdash; mocha - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces) [Website](http://visionmedia.github.io/mocha/)
-- [pivotal/jasmine](https://github.com/pivotal/jasmine) &mdash; DOM-less simple JavaScript testing framework. [Website](http://jasmine.github.io/)
-- [karma-runner/karma](https://github.com/karma-runner/karma) &mdash; Spectacular Test Runner for JavaScript. [Website](http://karma-runner.github.io/0.12/index.html)
-- [cjohansen/sinon.js](https://github.com/cjohansen/Sinon.JS) &mdash; Test spies, stubs and mocks for JavaScript. [Website](http://sinonjs.org/)
-(https://travis-ci.org/)
-(https://ci.testling.com/)
+- [QUnit](http://qunitjs.com/) &mdash; An easy-to-use JavaScript Unit Testing framework. [GitHub](https://github.com/jquery/qunit)
+- [Chai](https://github.com/chaijs/chai) &mdash; BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. [GitHub](http://chaijs.com/)
+- [Mocha](http://visionmedia.github.io/mocha/) &mdash; mocha - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces) (https://github.com/visionmedia/mocha)[GitHub]
+- [Jasmine](http://jasmine.github.io/) &mdash; DOM-less simple JavaScript testing framework. [GitHub](https://github.com/pivotal/jasmine)
+- [Karma](http://karma-runner.github.io/0.12/index.html) &mdash; Spectacular Test Runner for JavaScript. [GitHub](https://github.com/karma-runner/karma)
+- [Sinon.js](http://sinonjs.org/) &mdash; Test spies, stubs and mocks for JavaScript. [GitHub](https://github.com/cjohansen/Sinon.JS)
+<!-- (https://travis-ci.org/)
+(https://ci.testling.com/) -->
 
 
 
@@ -120,18 +120,18 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 
 ### Libraries
 #### Event Systems
-[cowboy/jquery-tiny-pubsub](https://github.com/cowboy/jquery-tiny-pubsub) &mdash;
-[asyncly/EventEmitter2](https://github.com/asyncly/EventEmitter2) &mdash; A nodejs event emitter implementation with namespaces, wildcards, TTL, works in the browser
-[Wolfy87/EventEmitter](https://github.com/Wolfy87/EventEmitter) &mdash; Evented JavaScript for the browser
-[fat/bean](https://github.com/fat/bean) &mdash; an events api for javascript
+- [cowboy/jquery-tiny-pubsub](https://github.com/cowboy/jquery-tiny-pubsub) &mdash; a really, really, REALLY tiny pub/sub implementation for jQuery.
+- [asyncly/EventEmitter2](https://github.com/asyncly/EventEmitter2) &mdash; a nodejs event emitter implementation with namespaces, wildcards, TTL, works in the browser
+- [Wolfy87/EventEmitter](https://github.com/Wolfy87/EventEmitter) &mdash; Evented JavaScript for the browser
+- [fat/bean](https://github.com/fat/bean) &mdash; an events api for javascript
 
 
 
 #### Promises
-- [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) &mdash; A full featured promise library with unmatched performance.
-- [cujojs/when](https://github.com/cujojs/when) &mdash; A solid, fast Promises/A+ and when() implementation, plus other async goodies.
-- [Promises/A+ Spec](http://promisesaplus.com/) &mdash; An open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
-- [jQuery.Deferred docs](http://api.jquery.com/category/deferred-object/) &mdash; Like promises but not really.
+- [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) &mdash; a full featured promise library with unmatched performance.
+- [cujojs/when](https://github.com/cujojs/when) &mdash; a solid, fast Promises/A+ and when() implementation, plus other async goodies.
+- [Promises/A+ Spec](http://promisesaplus.com/) &mdash; an open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
+- [jQuery.Deferred docs](http://api.jquery.com/category/deferred-object/) &mdash; like promises but not really.
 
 
 
@@ -150,8 +150,10 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Toffee](https://github.com/malgorithms/toffee) &mdash; a NodeJS and browser templating language based on coffeescript, with the slickest syntax ever. [GitHub](https://github.com/malgorithms/toffee)
 - [CoffeeKup](http://coffeekup.org/) &mdash; markup as CoffeeScript. [GitHub](https://github.com/mauricemach/coffeekup)
 
-#### User Interface
-- [React](https://github.com/facebook/react)
+
+
+#### User Interfaces
+- [React](http://facebook.github.io/react/) &mdash a JavaScript library for building user interfaces. It's declarative, efficient, and extremely flexible. What's more, it works with the libraries and frameworks that you already know. [GitHub](https://github.com/facebook/react)
 - [Hamlet](http://hamlet.coffee/) &mdash; the most tempting language for client side JavaScript applications. [GitHub](https://github.com/dr-coffee-labs/hamlet)
 
 
