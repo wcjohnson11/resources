@@ -50,6 +50,8 @@ Be taken seriously
 - [Karma](http://karma-runner.github.io/0.12/index.html) &mdash; Spectacular Test Runner for JavaScript. [GitHub](https://github.com/karma-runner/karma)
 - [Sinon.js](http://sinonjs.org/) &mdash; Test spies, stubs and mocks for JavaScript. [GitHub](https://github.com/cjohansen/Sinon.JS)
 
+
+
 ### Continuous Integration
 https://travis-ci.org/
 https://ci.testling.com/
@@ -135,15 +137,11 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Promises/A+ Spec](http://promisesaplus.com/) &mdash; an open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
 - [jQuery.Deferred docs](http://api.jquery.com/category/deferred-object/) &mdash; like promises but not really.
 
-
-
 #### Classes, Inheritance, Object Construction
 - [Wolfy87/Heir](https://github.com/Wolfy87/Heir) &mdash; Makes prototypical inheritance easy and robust.
 - [dilvie/stampit](https://github.com/dilvie/stampit) &mdash; Create objects from reusable, composable behaviors.
 - [javascript/augment](https://github.com/javascript/augment) &mdash; The world's smallest and fastest classical JavaScript inheritance pattern.
 - [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) &mdash; The authoritative guide to building objects in JavaScript.
-
-
 
 #### Templating
 - [Jade](http://jade-lang.com/) &mdash; robust, elegant, feature rich template engine for nodejs. [GitHub](https://github.com/visionmedia/jade)
@@ -152,14 +150,9 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Toffee](https://github.com/malgorithms/toffee) &mdash; a NodeJS and browser templating language based on coffeescript, with the slickest syntax ever. [GitHub](https://github.com/malgorithms/toffee)
 - [CoffeeKup](http://coffeekup.org/) &mdash; markup as CoffeeScript. [GitHub](https://github.com/mauricemach/coffeekup)
 
-
-
 #### User Interfaces
-- [React](http://facebook.github.io/react/) &mdash a JavaScript library for building user interfaces. It's declarative, efficient, and extremely flexible. What's more, it works with the libraries and frameworks that you already know. [GitHub](https://github.com/facebook/react)
+- [React](http://facebook.github.io/react/) &mdash; a JavaScript library for building user interfaces. It's declarative, efficient, and extremely flexible. What's more, it works with the libraries and frameworks that you already know. [GitHub](https://github.com/facebook/react)
 - [Hamlet](http://hamlet.coffee/) &mdash; the most tempting language for client side JavaScript applications. [GitHub](https://github.com/dr-coffee-labs/hamlet)
-
-
-
 
 #### Routing
 - [visionmedia/page.js](https://github.com/visionmedia/page.js) &mdash; Micro client-side router inspired by the Express router (~1200 bytes)
@@ -167,24 +160,29 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [A JavaScript Router in 20 Lines](http://joakimbeng.eu01.aws.af.cm/a-javascript-router-in-20-lines/)
 
 #### AJAX
-
 - [jQuery.ajax documentation](http://api.jquery.com/jquery.ajax/)
 - [visionmedia/superagent](https://github.com/visionmedia/superagent) &mdash; Ajax with less suck - (and node.js HTTP client to match)
 
-#### Utilities
-
+#### Utility Snippets
 - [kaimallea/isMobile](https://github.com/kaimallea/isMobile) &mdash; a simple JS library that detects mobile devices.
-- [Environment-agnostic boilerplate](https://gist.github.com/nickb1080/f7172c00fdcd45b9415a) &mdash; stolen from the Backbone source. Write code that works seamlessly in Node, AMD, and the browser.
+- [Environment-agnostic boilerplate](https://gist.github.com/nickb1080/f7172c00fdcd45b9415a) &mdash; shamelessly stolen from the Backbone source. Write code that works seamlessly in Node, AMD, and the browser.
 
 #### Generating Docs
-
 - [JSDoc](http://usejsdoc.org/) &mdash; an API documentation generator for JavaScript. [GitHub](https://github.com/jsdoc3/jsdoc)
 - [Docco](http://jashkenas.github.io/docco/) &mdash; Literate Programming can be Quick and Dirty. [GitHub](https://github.com/jashkenas/docco)
 
+#### Functional Programming
+- [Introduction to Functional Javascript](https://medium.com/functional-javascript/introduction-to-functional-javascript-45a9dca6c64a)
+- [Eloquent JavaScript - Chapter 6: Functional Programming](http://eloquentjavascript.net/chapter6.html)
+- [raganwald/allong.es](https://github.com/raganwald/allong.es) &mdash; a collection of functions designed to facilitate writing JavaScript and/or CoffeeScript with functions as first-class values. 
+- [CrossEye/ramda](https://github.com/CrossEye/ramda) &mdash; a practical functional library for Javascript programmers.
+- [fitzgen/wu.js](https://github.com/fitzgen/wu.js) &mdash; a lazy, functional Javascript library that ain't nuthin' ta f*ck wit.
+- [dtao/lazy.js](https://github.com/dtao/lazy.js) &mdash; like Underscore, but lazier.
+- [Reactive Extensions Tutorial](http://jhusain.github.io/learnrx/)
+- [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) &mdash; the Reactive Extensions for JavaScript
 
 
 #### Front-End Frameworks
-
 - [Backbone](http://backbonejs.org/) &mdash; Give your JS App some Backbone with Models, Views, Collections, and Events. [GitHub](https://github.com/jashkenas/backbone)
 - [Ember.js](http://emberjs.com/) &mdash; a JavaScript framework for creating ambitious web applications. [GitHub](https://github.com/emberjs/ember.js)
 - [Angular.js](https://angularjs.org/) &mdash; HTML enhanced for web apps. [GitHub](https://github.com/angular/angular.js)
