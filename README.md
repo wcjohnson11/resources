@@ -25,6 +25,7 @@ Master it
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) &mdash; GitHub has an awful lot of features. Explore them.
 - [GitHub API Documentation](https://developer.github.com/v3/) &mdash; The GitHub REST API.
 - [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) &mdash; How GitHub interprets markdown.
+- [Explore GitHub](https://github.com/explore) &mdash; Browse interesting projects, solving all types of interesting problems.
 - [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) &mdash; Because :expressionless: is how you should respond to bad pull requests.
 - [philschatz/octokit.js](https://github.com/philschatz/octokit.js/) &mdash; An Unofficial client for the Github API using CommonJS Promises. Intended for the browser or as a NodeJS package.
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) &mdash; Native Node bindings to Git.
@@ -33,8 +34,6 @@ Master it
 ### The Language
 Nuts & bolts
 - [NYU Advanced JS Course](https://github.com/advanced-js)
-
-
 
 ### Style
 USE MORE SPACES, PEOPLE.
@@ -50,13 +49,9 @@ Be taken seriously
 - [Karma](http://karma-runner.github.io/0.12/index.html) &mdash; Spectacular Test Runner for JavaScript. [GitHub](https://github.com/karma-runner/karma)
 - [Sinon.js](http://sinonjs.org/) &mdash; Test spies, stubs and mocks for JavaScript. [GitHub](https://github.com/cjohansen/Sinon.JS)
 
-
-
 ### Continuous Integration
 https://travis-ci.org/
 https://ci.testling.com/
-
-
 
 ### Building and Tooling
 Be a better developer
@@ -67,8 +62,6 @@ Be a better developer
 - [Broccoli](https://github.com/broccolijs/broccoli) &mdash; Browser compilation library – a build tool for applications that run in the browser
 - [Google Closure Compiler](https://developers.google.com/closure/compiler/) &mdash; A JavaScript checker and optimizer. [GitHub](https://github.com/google/closure-compiler)
 
-
-
 ### Data Structures & Algorithms
 Examples in JavaScript
 - [mgchev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) &mdash; JavaScript implementation of different computer science algorithms.
@@ -77,13 +70,9 @@ Examples in JavaScript
 - [afiore/arboreal](https://github.com/afiore/arboreal) &mdash; Javascript tree-traversal and manipulation microlibrary
 - [mauriciosantos/buckets](https://github.com/mauriciosantos/buckets) &mdash; A complete, fully tested and documented data structure library written in JavaScript.
 
-
-
 ### Building & Using APIs
 - [HTTP API Design](https://github.com/interagent/http-api-design)
 - [REST API Tutorial](http://www.restapitutorial.com/)
-
-
 
 ### CoffeeScript
 - [The Little Book On CoffeeScript](http://arcturo.github.io/library/coffeescript/)
@@ -97,14 +86,11 @@ Tools for running JavaScript code and apps outside the browser.
 - [PhoneGap](http://phonegap.com/) &mdash; access core functions on Android, iPhone and Blackberry using JavaScript. [GitHub](https://github.com/phonegap/phonegap)
 - [Tessel](https://tessel.io/) &mdash; Hardware development for software developers. [GitHub](https://github.com/tessel)
 
-
 ### Linting
 - [JSLint](http://www.jslint.com/)
 - [JSHint](http://www.jshint.com/)
 - [JSHint defaults](https://github.com/jshint/jshint/blob/master/examples/.jshintrc)
 - [CoffeeLint](http://www.coffeelint.org/)
-
-
 
 ### New Hotness
 Stuff related to upcoming ES6 features, exotic DOM APIs, or anything else that's not [old and busted](https://www.youtube.com/watch?v=ha-uagjJQ9k).
@@ -114,13 +100,9 @@ Stuff related to upcoming ES6 features, exotic DOM APIs, or anything else that's
 - [ES6 Generators](http://flippinawesome.org/2014/02/10/replacing-callbacks-with-es6-generators/)
 - [The Polymer Project](http://www.polymer-project.org/)
 
-
-
 ### HFS
 Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Algorithm Visualizations](http://bost.ocks.org/mike/algorithms/)
-
-
 
 ### Libraries
 #### Event Systems
@@ -128,8 +110,6 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [asyncly/EventEmitter2](https://github.com/asyncly/EventEmitter2) &mdash; a nodejs event emitter implementation with namespaces, wildcards, TTL, works in the browser
 - [Wolfy87/EventEmitter](https://github.com/Wolfy87/EventEmitter) &mdash; Evented JavaScript for the browser
 - [fat/bean](https://github.com/fat/bean) &mdash; an events api for javascript
-
-
 
 #### Promises
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) &mdash; a full featured promise library with unmatched performance.
@@ -180,8 +160,11 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [dtao/lazy.js](https://github.com/dtao/lazy.js) &mdash; like Underscore, but lazier.
 - [Reactive Extensions Tutorial](http://jhusain.github.io/learnrx/)
 - [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) &mdash; the Reactive Extensions for JavaScript
+
 - [Functional Reactive Programming Intro](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)  An extremely thorough introducition to functional reactive programming
 
+=======
+- [baconjs/bacon.js](https://github.com/baconjs/bacon.js/) &mdash; FRP (functional reactive programming) library for Javascript
 
 #### Front-End Frameworks
 - [Backbone](http://backbonejs.org/) &mdash; Give your JS App some Backbone with Models, Views, Collections, and Events. [GitHub](https://github.com/jashkenas/backbone)
@@ -190,15 +173,11 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Meteor](https://www.meteor.com/) &mdash; Meteor is an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. [GitHub](https://github.com/meteor/meteor)
 - [TodoMVC](http://todomvc.com/) &mdash; compare front-end frameworks.
 
-
-
 #### Back-End Frameworks
 - [Express](http://expressjs.com/) &mdash; Sinatra inspired web development framework for node.js -- insanely fast, flexible, and simple. [GitHub](https://github.com/visionmedia/express)
 - [Sails.js](http://sailsjs.org/) &mdash; Realtime MVC Framework for Node.js. [GitHub](https://github.com/balderdashy/sails)
 - [Koa.js](http://koajs.com/) &mdash;
 [GitHub]
-
-
 
 #### Database Interaction / ORMs
 Database clients in JavaScript
@@ -208,19 +187,15 @@ Database clients in JavaScript
 - CouchDB [cradle](https://github.com/flatiron/cradle)
 - Redis [node_redis](https://github.com/mranney/node_redis)
 
-
 #### Backend as a Service
 - [Parse](https://parse.com/docs/js_guide)
 - [Firebase](https://www.firebase.com/docs/javascript/firebase/)
 - [Apigee](http://apigee.com/docs/app-services/content/installing-apigee-sdk-javascript)
 
-
 #### Full-Stack
 - [Introduction to Full-Stack Javascipt](http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/)
 - [Guide To Full-Stack JavaScript](http://www.toptal.com/javascript/guide-to-full-stack-javascript)
 - [Mean.io](http://mean.io/) 
-
-
 
 #### Text and Character Encoding
 
