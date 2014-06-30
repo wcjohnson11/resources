@@ -223,4 +223,4 @@ Database clients in JavaScript
 
 #### Text and Character Encoding
 
-- [An explanation of the utf-8 header and character encoding.](http://www.joelonsoftware.com/articles/Unicode.html)
+- [utf-8 header and text encoding.](http://www.joelonsoftware.com/articles/Unicode.html)
