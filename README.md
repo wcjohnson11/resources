@@ -3,12 +3,12 @@ _Hack Reactor 15_
 
 ### Other Resource Lists and Sites
 Much better than this one
-[Free Programming Books](https://github.com/vhf/free-programming-books)
-[Front-end Feeds](https://github.com/impressivewebs/frontend-feeds)
-[Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
-[Front-end Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-[Echojs.com](http://www.echojs.com/)
-[Dailyjs.com](http://dailyjs.com/)
+- [Free Programming Books](https://github.com/vhf/free-programming-books)
+- [Front-end Feeds](https://github.com/impressivewebs/frontend-feeds)
+- [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+- [Front-end Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [Echojs.com](http://www.echojs.com/)
+- [Dailyjs.com](http://dailyjs.com/)
 
 
 ### JavaScript Rockstars
@@ -25,7 +25,7 @@ Master it
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) &mdash; GitHub has an awful lot of features. Explore them.
 - [GitHub API Documentation](https://developer.github.com/v3/) &mdash; The GitHub REST API.
 - [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/) &mdash; How GitHub interprets markdown.
-- [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) &mdash; Your commit messages and pull requests are about to get so awesome.
+- [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) &mdash; Your commit messages and pull requests are about to get so :boom:.
 - [philschatz/octokit.js](https://github.com/philschatz/octokit.js/) &mdash; An Unofficial client for the Github API using CommonJS Promises. Intended for the browser or as a NodeJS package.
 - [nodegit/nodegit](https://github.com/nodegit/nodegit) &mdash; Native Node bindings to Git.
 - [atom/git-utils](https://github.com/atom/git-utils) &mdash; Git Node Module.
@@ -45,12 +45,14 @@ USE MORE SPACES, PEOPLE.
 Be taken seriously
 - [QUnit](http://qunitjs.com/) &mdash; An easy-to-use JavaScript Unit Testing framework. [GitHub](https://github.com/jquery/qunit)
 - [Chai](https://github.com/chaijs/chai) &mdash; BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. [GitHub](http://chaijs.com/)
-- [Mocha](http://visionmedia.github.io/mocha/) &mdash; mocha - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces) (https://github.com/visionmedia/mocha)[GitHub]
+- [Mocha](http://visionmedia.github.io/mocha/) &mdash; mocha - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces) [GitHub](https://github.com/visionmedia/mocha)
 - [Jasmine](http://jasmine.github.io/) &mdash; DOM-less simple JavaScript testing framework. [GitHub](https://github.com/pivotal/jasmine)
 - [Karma](http://karma-runner.github.io/0.12/index.html) &mdash; Spectacular Test Runner for JavaScript. [GitHub](https://github.com/karma-runner/karma)
 - [Sinon.js](http://sinonjs.org/) &mdash; Test spies, stubs and mocks for JavaScript. [GitHub](https://github.com/cjohansen/Sinon.JS)
-<!-- (https://travis-ci.org/)
-(https://ci.testling.com/) -->
+
+### Continuous Integration
+https://travis-ci.org/
+https://ci.testling.com/
 
 
 
