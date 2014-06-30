@@ -198,5 +198,10 @@ Database clients in JavaScript
 - [Mean.io](http://mean.io/) 
 
 #### Text and Character Encoding
-
 - [utf-8 header and text encoding.](http://www.joelonsoftware.com/articles/Unicode.html)
+
+#### Interviewing Resources
+- [Front-End Developer Interview Questions](https://github.com/darcyclarke/front-end-developer-interview-questions)
+- [Coding Interview Tips (Soft-Skills)](https://www.interviewcake.com/coding-interview-tips)
+- [Interview Hacks](http://webapplog.com/interview-hacks/)
+- [The Insider's Guide to JavaScript Interviewing](http://www.toptal.com/javascript#hiring-guide)
