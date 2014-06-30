@@ -1,34 +1,27 @@
 # JavaScript Resources
-### _Hack Reactor 2014-06_ 
-
-
+_Hack Reactor 15_ 
 
 ### Other Resource Lists
 Much better than this one
 
-(https://github.com/impressivewebs/frontend-feeds
-
-(https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
-
-(https://github.com/vhf/free-programming-books
-
-(https://github.com/dypsilon/frontend-dev-bookmarks
-
-(http://www.echojs.com/
-
-(http://dailyjs.com/
+(https://github.com/impressivewebs/frontend-feeds)
+(https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+(https://github.com/vhf/free-programming-books)
+(https://github.com/dypsilon/frontend-dev-bookmarks)
+(http://www.echojs.com/)
+(http://dailyjs.com/)
 
 
 
 ### JavaScript Rockstars
-Follow them on GitHub & elsewhere
+Follow them on GitHub and elsewhere
 - [James Halliday](https://github.com/substack)
 - [Addy Osmani](https://github.com/addyosmani)
 - [Eric Bidelman](https://github.com/ebidel)
 - [TJ Holowaychuk](https://github.com/visionmedia)
 
 ### Git & GitHub
-Master it.
+Master it
 - [Hub](https://github.com/github/hub) &mdash; GitHub from the command line.
 - [GitHub Pages](https://pages.github.com/) &mdash; Guide to hosting sites on GitHub pages.
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) &mdash; GitHub has an awful lot of features. Explore them.
@@ -85,7 +78,6 @@ Examples in JavaScript
 
 
 ### Building & Using APIs
-
 - [HTTP API Design](https://github.com/interagent/http-api-design)
 - [REST API Tutorial](http://www.restapitutorial.com/)
 
@@ -105,16 +97,15 @@ Tools for running JavaScript code and apps outside the browser.
 
 
 ### Linting
-
-- (http://www.jslint.com/)
-- (http://www.jshint.com/)
-- (https://github.com/jshint/jshint/blob/master/examples/.jshintrc)
-- (http://www.coffeelint.org/)
+- [JSLint](http://www.jslint.com/)
+- [JSHint](http://www.jshint.com/)
+- [JSHint defaults](https://github.com/jshint/jshint/blob/master/examples/.jshintrc)
+- [CoffeeLint](http://www.coffeelint.org/)
 
 
 
 ### New Hotness
-Stuff related to upcoming ES6 features, exotic DOM APIs, or anything else that's not [old and busted]((https://www.youtube.com/watch?v=ha-uagjJQ9k).
+Stuff related to upcoming ES6 features, exotic DOM APIs, or anything else that's not [old and busted](https://www.youtube.com/watch?v=ha-uagjJQ9k).
 - [Google Traceur Compiler](https://github.com/google/traceur-compiler)
 - [ES6 Draft Spec](https://people.mozilla.org/~jorendorff/es6-draft.html)
 - [Intro to `Object.observe`](http://www.html5rocks.com/en/tutorials/es7/observe/)
@@ -194,7 +185,7 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Ember.js](http://emberjs.com/) &mdash; a JavaScript framework for creating ambitious web applications. [GitHub](https://github.com/emberjs/ember.js)
 - [Angular.js](https://angularjs.org/) &mdash; HTML enhanced for web apps. [GitHub](https://github.com/angular/angular.js)
 - [Meteor](https://www.meteor.com/) &mdash; Meteor is an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. [GitHub](https://github.com/meteor/meteor)
-- [TodoMVC](http://todomvc.com/) &mdash; compare front-end frameworks
+- [TodoMVC](http://todomvc.com/) &mdash; compare front-end frameworks.
 
 
 
