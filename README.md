@@ -35,6 +35,7 @@ Master it
 
 ### The Language
 Nuts & bolts
+- [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 - [NYU Advanced JS Course](https://github.com/advanced-js)
 
 ### Style
