@@ -1,5 +1,5 @@
 # JavaScript Resources
-_Hack Reactor 15_
+_Hack Reactor June 2014 Cohorts_
 
 ### Other Resource Lists and Sites
 Much better than this one
