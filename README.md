@@ -58,7 +58,7 @@ https://ci.testling.com/
 
 ### Building and Tooling
 Be a better developer
-- [Browserify](http://browserify.org/) &mdash; browser-side require() the node.js way. [GitHub](https://github.com/substack/node-browserify)
+- [Browserify](http://browserify.org/) &mdash; browser-side require() the node.js way. [GitHub](https://github.com/substack/node-browserify) [Handbook](https://github.com/substack/browserify-handbook)
 - [Grunt](https://github.com/gruntjs/grunt) &mdash; the JavaScript Task Runner. [GitHub](https://github.com/gruntjs/grunt)
 - [Gulp](https://github.com/gulpjs/gulp) &mdash; the streaming build system. [GitHub](https://github.com/gulpjs/gulp/)
 - [Brunch](http://brunch.io/) &mdash; Ultra-fast HTML5 build tool [GitHub](https://github.com/brunch/brunch)
@@ -178,8 +178,8 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 #### Back-End Frameworks
 - [Express](http://expressjs.com/) &mdash; Sinatra inspired web development framework for node.js -- insanely fast, flexible, and simple. [GitHub](https://github.com/visionmedia/express)
 - [Sails.js](http://sailsjs.org/) &mdash; Realtime MVC Framework for Node.js. [GitHub](https://github.com/balderdashy/sails)
-- [Koa.js](http://koajs.com/) &mdash;
-[GitHub]
+- [Koa.js](http://koajs.com/) &mdash; next generation framework for node.js [GitHub](https://github.com/koajs/koa)
+- [Hapi](http://http://hapijs.com/) &mdash; A rich framework for building applications and services [GitHub](https://github.com/spumko/hapi)
 
 #### Database Interaction / ORMs
 Database clients in JavaScript
