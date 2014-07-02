@@ -1,5 +1,5 @@
 # JavaScript Resources
-_Hack Reactor 15_ 
+_Hack Reactor 15_
 
 ### Other Resource Lists and Sites
 Much better than this one
@@ -159,15 +159,13 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 #### Functional Programming
 - [Introduction to Functional Javascript](https://medium.com/functional-javascript/introduction-to-functional-javascript-45a9dca6c64a)
 - [Eloquent JavaScript - Chapter 6: Functional Programming](http://eloquentjavascript.net/chapter6.html)
-- [raganwald/allong.es](https://github.com/raganwald/allong.es) &mdash; a collection of functions designed to facilitate writing JavaScript and/or CoffeeScript with functions as first-class values. 
+- [raganwald/allong.es](https://github.com/raganwald/allong.es) &mdash; a collection of functions designed to facilitate writing JavaScript and/or CoffeeScript with functions as first-class values.
 - [CrossEye/ramda](https://github.com/CrossEye/ramda) &mdash; a practical functional library for Javascript programmers.
 - [fitzgen/wu.js](https://github.com/fitzgen/wu.js) &mdash; a lazy, functional Javascript library that ain't nuthin' ta f*ck wit.
 - [dtao/lazy.js](https://github.com/dtao/lazy.js) &mdash; like Underscore, but lazier.
 - [Reactive Extensions Tutorial](http://jhusain.github.io/learnrx/)
 - [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) &mdash; the Reactive Extensions for JavaScript
-
 - [Functional Reactive Programming Intro](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)  An extremely thorough introduction to functional reactive programming
-
 - [baconjs/bacon.js](https://github.com/baconjs/bacon.js/) &mdash; FRP (functional reactive programming) library for Javascript
 
 #### Front-End Frameworks
@@ -185,11 +183,12 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 
 #### Database Interaction / ORMs
 Database clients in JavaScript
-- SQL [sequelize](https://github.com/sequelize/sequelize)
-- SQL [bookshelf](https://github.com/tgriesser/bookshelf)
-- MongoDB [mongoose](http://mongoosejs.com/)
-- CouchDB [cradle](https://github.com/flatiron/cradle)
-- Redis [node_redis](https://github.com/mranney/node_redis)
+- [Sequelize](https://github.com/sequelize/sequelize)
+- [Bookshelf](https://github.com/tgriesser/bookshelf)
+- [Mongoose](http://mongoosejs.com/)
+- [Cradle](https://github.com/flatiron/cradle)
+- [Node_redis](https://github.com/mranney/node_redis)
+- [5 reasons you should use Bookshelf.js](http://stites.io/2013/12/26/5-reasons-you-should-use-Bookshelfjs.html)
 
 #### Backend as a Service
 - [Parse](https://parse.com/docs/js_guide)
@@ -199,7 +198,7 @@ Database clients in JavaScript
 #### Full-Stack
 - [Introduction to Full-Stack Javascipt](http://www.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/)
 - [Guide To Full-Stack JavaScript](http://www.toptal.com/javascript/guide-to-full-stack-javascript)
-- [Mean.io](http://mean.io/) 
+- [Mean.io](http://mean.io/)
 
 #### Text and Character Encoding
 - [utf-8 header and text encoding.](http://www.joelonsoftware.com/articles/Unicode.html)
