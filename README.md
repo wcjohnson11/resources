@@ -180,6 +180,7 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Sails.js](http://sailsjs.org/) &mdash; Realtime MVC Framework for Node.js. [GitHub](https://github.com/balderdashy/sails)
 - [Koa.js](http://koajs.com/) &mdash; next generation framework for node.js [GitHub](https://github.com/koajs/koa)
 - [Hapi](http://http://hapijs.com/) &mdash; A rich framework for building applications and services [GitHub](https://github.com/spumko/hapi)
+- [Hapi ctd.](https://www.youtube.com/watch?v=Recv7vR8ZlA) &mdash; A presentation from the dev team introducing the Hapi framework.
 
 #### Database Interaction / ORMs
 Database clients in JavaScript
